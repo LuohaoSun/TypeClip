@@ -15,7 +15,7 @@ macOS 菜单栏小工具：按 **⌃⌘V**，把剪贴板里的文本**逐键敲
 
 ## 安装
 
-1. 从 [Releases](releases) 下载 DMG，把 TypeClip.app 拖进「应用程序」
+1. 从 [Releases](https://github.com/LuohaoSun/TypeClip/releases) 下载 DMG，把 TypeClip.app 拖进「应用程序」
 2. 首次打开请**右键 → 打开**（本包为 adhoc 签名、未公证，直接双击会被 Gatekeeper 拦下）
 3. 授权：系统设置 → 隐私与安全性 → 辅助功能 → 开启 TypeClip（菜单面板顶部会有橙色提醒和直达按钮）
 4. 复制文本 → 切到目标窗口（远程桌面/终端）→ 按 **⌃⌘V**
